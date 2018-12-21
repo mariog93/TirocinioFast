@@ -12,6 +12,7 @@ public class QuestionarioAziendaBean implements java.io.Serializable {
 
 	public int getStudente() {
 		return studente;
+		
 	}
 
 	public void setStudente(int studente) {
